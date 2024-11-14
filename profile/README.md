@@ -6,3 +6,4 @@ Die GeoIT-Abteilung der CreaTech Engineering GmbH spezialisiert sich auf die Ent
 - **[CREATR](https://github.com/CreaTechNAS/creatr)**: QGIS-Toolbox für die Glasfaser-Ausbauplanung.
 - **[Geodaten Webviewer für die Kommunale Wärmeplanung](https://github.com/createch-engineering/geoviewer-kwp)**: Webmap zur Darstellung der Planungsdaten aus der Kommunalen Wärmeplanung
 - **[ALKIS(NAS)-Konverter](https://github.com/createch-engineering/alkis-conv-django)**: Webapplikation zur Konvertierung von Alkis-Daten aus dem .nas Format in ein beliebiges Geodatenformat mit Eigentümerinformation
+- **[Controlling Dashboard](https://github.com/createch-engineering/controlling-dashboard)**: Webapplikation zur Visualisierung betrieblicher Kennzahlen
